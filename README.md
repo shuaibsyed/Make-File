@@ -1,2 +1,2 @@
 # Make-File
-This project was an introduction to makefile in C which had us create a simple makefile of all the files
+This introductory project focused on Makefiles in C, guiding us through the creation of a simple Makefile to compile multiple files.
